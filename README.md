@@ -1,5 +1,5 @@
 # Pizza-Order-App
-Pizza Order App with Python
+Pizza Order App with Python<br>
 ---------------------------<br>
 Firstly the menu is read from a text file<br>
 Secondly you can choose what type of pizza do you want<br>
