@@ -2,8 +2,8 @@
 Pizza Order App with Python<br>
 ---------------------------<br>
 Firstly the menu is read from a text file<br>
-Secondly you can choose what type of pizza do you want<br>
-And you can choose waht type of sauce do you want<br>
+Secondly you can select what type of pizza do you want<br>
+And you can select what type of sauce do you want<br>
 After that you should type your personel info and credit cart info<br>
 Finally it will be saved on database and you can read<br>
 ----------------------------<br>
