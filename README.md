@@ -1,4 +1,4 @@
-# Pizza-Order-App
+# Pizza-Ordering-App
 Pizza Order App with Python<br>
 ---------------------------<br>
 Firstly the menu is read from a text file<br>
